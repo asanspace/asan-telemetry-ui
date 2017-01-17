@@ -1,0 +1,24 @@
+{
+  "name": "asan-telemetry-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asanspace/asan-telemetry-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asanspace/asan-telemetry-ui/issues"
+  },
+  "homepage": "https://github.com/asanspace/asan-telemetry-ui#readme",
+  "dependencies": {
+    "next": "^1.2.3",
+    "react-minimal-google-maps": "0.0.42"
+  }
+}
