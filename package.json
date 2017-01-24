@@ -12,6 +12,9 @@
     "aurelia-bootstrapper": "^1.0.0",
     "aurelia-google-maps": "^1.0.18",
     "bluebird": "^3.4.1",
+    "browser-meshblu-http": "^6.1.5",
+    "lodash": "^4.17.4",
+    "meshblu-http": "^9.3.0",
     "requirejs": "^2.3.2",
     "text": "github:requirejs/text#latest"
   },
